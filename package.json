@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap3-for-embed",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^3.0.0",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.35.1",
+    "sass-loader": "^10.2.0"
+  }
+}
